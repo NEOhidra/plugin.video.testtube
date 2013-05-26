@@ -6,7 +6,7 @@ plugin =  'TestTube'
 __author__ = 'stacked <stacked.xbmc@gmail.com>'
 __url__ = 'http://code.google.com/p/plugin/'
 __date__ = '05-25-2013'
-__version__ = '1.0.1'
+__version__ = '0.0.1'
 settings = xbmcaddon.Addon(id='plugin.video.testtube')
 buggalo.SUBMIT_URL = 'http://www.xbmc.byethost17.com/submit.php'
 dbg = False
