@@ -19,6 +19,7 @@
     <description lang="en">The brand new digital network from Discovery and Revision3 exploring science, curiosity, and all things that inspire us.</description>
     <platform>all</platform>
 	<language>en</language>
+	<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
 	<website>https://code.google.com/p/plugin</website>
 	<source>https://github.com/stacked/plugin.video.testtube</source>
 	<forum>http://forum.xbmc.org/showthread.php?tid=42458</forum>
